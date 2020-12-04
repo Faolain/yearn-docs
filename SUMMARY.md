@@ -87,3 +87,4 @@
 ## Contributors
 
 - [Contribute](contributors/README.md)
+- [Writing Style Guide](contributors/writing-style-guide.md)
